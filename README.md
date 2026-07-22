@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # The Social Hub
 
 A web platform for cross-residence social interaction among students living in purpose-built student accommodation (PBSA).
@@ -666,4 +665,3 @@ For issues and questions:
 - React for modern frontend architecture
 - PostgreSQL for reliable data storage
 - Docker for containerization
->>>>>>> 465b4df4d9f84e893dbaea28ed436b96af8ff5f1
